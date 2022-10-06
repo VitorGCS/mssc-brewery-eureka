@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>guru.sfg.brewery.eureka</groupId>
-    <artifactId>msssc-brewery-eureka</artifactId>
+    <artifactId>mssc-brewery-eureka</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>msssc-brewery-eureka</name>
+    <name>mssc-brewery-eureka</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>11</java.version>
