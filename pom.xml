@@ -23,6 +23,12 @@
             <artifactId>spring-cloud-starter-netflix-eureka-server</artifactId>
         </dependency>
 
+        <!-- Security ->  basic Auth (USER/PASSWORD) -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-security</artifactId>
+        </dependency>
+
         <!-- logback ->  Logging Configuration (JSON encoding) -->
         <dependency>
             <groupId>net.logstash.logback</groupId>
